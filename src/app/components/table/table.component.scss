@@ -1,0 +1,11 @@
+:host {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  section {
+    margin: 1em;
+    width: 100%;
+  }
+}
